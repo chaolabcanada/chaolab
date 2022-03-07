@@ -1,5 +1,5 @@
 - name: Jesse Chao
-  photo: 
+  photo:
   info: Scientist and Assistant Professor
   email: jesse.chao@sunnybrook.ca
   number_educ: 4
@@ -9,14 +9,14 @@
   education4: Postdoc, University of British Columbia
 
 - name: Kaitlynn Meier-Ross
-  photo: 
+  photo:
   info: Research Technician
   email: kaitlynn.meier-ross@sri.utoronto.ca
   number_educ: 1
   education1: B.Sc. Honours, University of Waterloo
 
 - name: Ajay Singh
-  photo: 
+  photo:
   info: Research Technician
   email: ajay.singh@sri.utoronto.ca
   number_educ: 1
