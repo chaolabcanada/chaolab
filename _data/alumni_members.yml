@@ -1,7 +1,7 @@
 - name: Kaitlynn Meier-Ross
   photo: Kaitlynn_profile.jpg
-  duration: In Chao Lab from January - August 2022, now in Medical school at University of Ottawa
-  #info: Fine mechanical engineer associated with the FMD working in our group
+  duration: Research Technician: January - August 2022
+  #info: Pursuing Medicine at the University of Ottawa
   #email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: B.Sc. Honours, University of Waterloo
@@ -11,8 +11,8 @@
   
 - name: Shrey Acharya
   photo: Shrey_profile.jpg
-  duration: Summer student In Chao Lab from May - August 2022, now in pursuing his Bachelors of Health Sciences at McMaster University
-  #info: Fine mechanical engineer associated with the FMD working in our group
+  duration: Summer student: May - August 2022
+  info: Pursuing a Bachelors of Health Sciences at McMaster University
   #email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: Candidate for B.HSc. Honours, McMaster University (2024)
