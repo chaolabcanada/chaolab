@@ -1,21 +1,21 @@
 - name: Kaitlynn Meier-Ross
-  photo: Kaitlynn_profile.jpg
+  photo: kaitlynn_profile.jpg
   duration: Research Technician: January - August 2022
-  #info: Pursuing Medicine at the University of Ottawa
-  #email: verdoes@fmd.physics.leidenuniv.nl
+  info: Pursuing Medicine at the University of Ottawa
+  #email: 
   number_educ: 1
   education1: B.Sc. Honours, University of Waterloo
-  #education2:
-  #education3:
-  #education4:
+  education2:
+  education3:
+  education4:
   
 - name: Shrey Acharya
-  photo: Shrey_profile.jpg
+  photo: shrey_profile.jpg
   duration: Summer student: May - August 2022
-  #info: Pursuing a Bachelors of Health Sciences at McMaster University
-  #email: verdoes@fmd.physics.leidenuniv.nl
+  info: Pursuing a Bachelors of Health Sciences at McMaster University
+  #email: 
   number_educ: 1
   education1: Candidate for B.HSc. Honours, McMaster University (2024)
-  #education2:
-  #education3:
-  #education4:
+  education2:
+  education3:
+  education4:
