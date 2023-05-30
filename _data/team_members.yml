@@ -8,12 +8,12 @@
   education3: Postdoc, University of California
   education4: Postdoc, University of British Columbia
 
-- name: Kaitlynn Meier-Ross
-  photo: kaitlynn_profile.jpg
-  info: Medical Student
-  email: kaitlynn.meier-ross@sri.utoronto.ca
-  number_educ: 1
-  education1: B.Sc. Honours, University of Waterloo
+#- name: Kaitlynn Meier-Ross
+  #photo: kaitlynn_profile.jpg
+  #info: Medical Student
+  #email: kaitlynn.meier-ross@sri.utoronto.ca
+  #number_educ: 1
+  #education1: B.Sc. Honours, University of Waterloo
    
 - name: Ajay Singh
   photo: ajay_profile.jpg
@@ -22,12 +22,12 @@
   number_educ: 1
   education1: B.Sc. Honours, University of Toronto
   
-- name: Shrey Acharya
-  photo: shrey_profile.jpg
-  info: Summer Research Student
-  email: achars7@mcmaster.ca
-  number_educ: 1
-  education1: Candidate for B.HSc. Honours, McMaster University (2024)
+#- name: Shrey Acharya
+  #photo: shrey_profile.jpg
+  #info: Summer Research Student
+  #email: achars7@mcmaster.ca
+  #number_educ: 1
+  #education1: Candidate for B.HSc. Honours, McMaster University (2024)
   
 - name: Jasmine Wen
   photo: jasmine_profile.jpg
