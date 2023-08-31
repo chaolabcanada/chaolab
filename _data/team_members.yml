@@ -20,7 +20,7 @@
   info: Master's Student
   email: ajay.singh@mail.utoronto.ca
   number_educ: 1
-  education1: B.Sc. Honours, University of Toronto
+  education1: B.Sc. Honours, University of Toronto St. George
   
 #- name: Shrey Acharya
   #photo: shrey_profile.jpg
@@ -41,7 +41,21 @@
   info: Master's Student
   email: Ben.martin@mail.utoronto.ca
   number_educ: 1
-  education1: B.Sc. Honours, University of Toronto
+  education1: B.Sc. Honours, University of Toronto St. George
+
+- name: David Nguyen
+  photo: Ben_profile.jpg
+  info: 4th year Thesis project Student
+  email: david.nguyen@queensu.ca
+  number_educ: 1
+  education1: B.H.Sc. in progress, Queens University
+
+  - name: Vedanta Khan
+  photo: Ben_profile.jpg
+  info: 4th year Thesis project Student
+  email: vedanta.khan@mail.utoronto.ca
+  number_educ: 1
+  education1: B.Sc. in progress, University of Toronto St. George
   
 - name: "This could be you !"
   photo: rock.jpg
